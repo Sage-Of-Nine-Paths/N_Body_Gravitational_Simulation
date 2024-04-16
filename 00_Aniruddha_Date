@@ -1,6 +1,3 @@
-# N_Body_Gravitational_Simulation
- N body gravitational simulation
-
 # How to run
 - run n_body.cpp
 - give data of particles / bodies
